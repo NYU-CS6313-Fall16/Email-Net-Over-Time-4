@@ -19,11 +19,11 @@ This project offers functions:
 * Content of the emails:
 	* What's the distribution of the hot keys in current period?
 
-**Video**:
+**Video**:https://drive.google.com/file/d/0B3G56SR7Nof8NS1SODREbFFjNE0/view
 
-**Real-time work url**:
+**Real-time work url**:https://caicai-poly.github.io/Email-Net-Over-Time-4/index.html
 
-**Final Document**:
+**Final Document**:https://docs.google.com/document/d/1ViPR-H7xkU5Vk-5talFFACYs2arVnq5oo-pD56Hm-14/edit?ts=585cb30d
 
 ###Running
 If you want to run the repo locally,
