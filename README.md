@@ -1,7 +1,7 @@
 # Email-Net-Over-Time_4
 Email Net Over Time - 4
 
-**Authors**: Weichen Xu, Zhengxin Cai, Hanqiao Qiu
+**Authors**: Weichen Xu, Zhengxin Cai, Hanqiao Qiu, Xie lyu
 ![Screenshot](https://github.com/WeichenXu/Email-Net-Over-Time-4/blob/master/screen_shot.png "Screenshot")
 ## Description
 We try to visualize the social network created by an email data set over time. We focus especially on visualizing the change in the communications within the network over time or during a specified time span. Besides, we generate the distribution of hot keys and display the content of emails between users in a interactive way.
